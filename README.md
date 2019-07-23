@@ -44,3 +44,4 @@ that server so that hub will talk to it:
 git config --add hub.host your.github-enterprise-server.org
 ```
 
+Questions? Ask away. Corrections? Open a pull request. Like I'm about to do now.
